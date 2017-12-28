@@ -1,0 +1,6 @@
+threadlocal\CountLocal.class
+threadlocal\CountStaticInteger.class
+threadlocal\CountStaticIntegerThread.class
+threadlocal\CountVolatileInteger.class
+threadlocal\CountVolatileIntegerThread.class
+threadlocal\CountLocalThread.class
